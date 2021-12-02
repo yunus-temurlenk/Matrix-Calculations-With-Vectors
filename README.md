@@ -6,3 +6,7 @@ People who like to play with C++ vectors instead of arrays can get this repo to 
 - cofactor calculation
 - adjoint calculation
 - determinant calculation
+
+# Why ?
+
+Because C++ vectors are great to deal with.

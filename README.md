@@ -4,6 +4,7 @@ People who like to play with C++ vectors instead of arrays can get this repo to 
 - matrix inverse calculation
 - matrix multiplication
 - cofactor calculation
+- transpose calculation
 - adjoint calculation
 - determinant calculation
 
